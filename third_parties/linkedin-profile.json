@@ -1,0 +1,410 @@
+{
+  "success": true,
+  "credits_left": 99,
+  "rate_limit_left": 100,
+  "daily_rate_limit_left": 100,
+  "minute_rate_limit_left": 499,
+  "next_minute_rate_limit_reset": "2025-08-25T14:27:36.000Z",
+  "person": {
+    "publicIdentifier": "fabian-pappa-06198614a",
+    "linkedInIdentifier": "ACoAACQYfMkBsQrHA50CY_E1hOoyzQrYABfeKLg",
+    "memberIdentifier": "605584585",
+    "linkedInUrl": "https://www.linkedin.com/in/fabian-pappa-06198614a",
+    "firstName": "Fabian",
+    "lastName": "Pappa",
+    "headline": "Frontend Developer (Reactjs) | Licenciatura en Software Development",
+    "location": {
+      "city": "Mar del Plata",
+      "state": "Buenos Aires Province",
+      "country": "Argentina",
+      "countryCode": "AR"
+    },
+    "summary": "I'm a frontend developer with a strong passion for collaboration, continuous learning, and taking part in projects that challenge me and help me grow.\nI’m especially interested in building clean, accessible, and thoughtful user experiences. I enjoy working with people from different backgrounds and contributing not only technically, but also on a human level.\nBefore entering the IT world, I worked for over five years in customer service and sales, and also served as a full-time missionary for two years, taking on leadership and operational roles. Those experiences shaped the communicator, team player, and committed professional I am today.\nI’ve also had the opportunity to train and onboard new team members to take over my responsibilities when I transitioned to other projects, ensuring effective knowledge transfer and team continuity.\nI don’t pretend to know everything — but what I don’t know, I actively seek out. I value transparency, learning, and finding the right solution. I enjoy asking, listening, and building with intention.\nCurrently, I’m expanding my skills toward the backend to become a more well-rounded developer, while continuing to grow in my passion for frontend development.\n\nI’m always eager to take on new challenges, contribute with value, and grow alongside my team and the projects I’m part of.",
+    "photoUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEWWvc9i4npaA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1651361117837?e=1758758400&v=beta&t=7p64yRMr6RveLJvHvyAunJBZ5wS-Jso6xlmbJOYTPtE",
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4D16AQHuuO-7NJxElw/profile-displaybackgroundimage-shrink_350_1400/B4DZfROlM2HMAY-/0/1751561951363?e=1758758400&v=beta&t=pWoPZCQ35-Kg0oDlgayh1qCnqHc330l1HtKaA5nlb5Q",
+    "openToWork": false,
+    "premium": true,
+    "showVerificationBadge": false,
+    "creationDate": null,
+    "followerCount": null,
+    "positions": {
+      "positionsCount": 4,
+      "positionHistory": [
+        {
+          "title": "Front-end developer",
+          "companyName": "Errepar",
+          "companyLocation": "Mar del Plata, Provincia de Buenos Aires, Argentina",
+          "description": "I’ve been working as a frontend developer at Errepar for several years, taking part in different projects across the company. I started by contributing to the main web portal and various internal tools, including admin dashboards and management apps for both clients and internal teams.\nOver time, I also took on a more senior role within the frontend team, helping with technical decisions, task estimations, and mentoring other developers.\nRight now, I’m working on a new AI-powered search engine for the company, where I’m fully responsible for the frontend development.\nThroughout my time at Errepar, I’ve been involved in:\nTesting, bug fixes, and production deployments.\nEstimating and planning tasks.\nCommunicating regularly with product, design, backend, and QA teams.\nContinuously improving user experience and code quality.\nI enjoy working collaboratively, sharing ideas, and focusing on the small details that make a big impact on a product.",
+          "startEndDate": {
+            "start": {
+              "month": 2,
+              "year": 2023
+            },
+            "end": null
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQHMVUIPCmZRQA/company-logo_400_400/company-logo_400_400/0/1664766305259/errepar_logo?e=1758758400&v=beta&t=HyvlaiQ9AU1pfFAqrzT_hO2M7Y1IPiy0Q1aLsowNc_c",
+          "linkedInUrl": "https://www.linkedin.com/company/errepar/",
+          "linkedInId": "633807"
+        },
+        {
+          "title": "Front-end developer ",
+          "companyName": "ReplaceIT",
+          "companyLocation": "Mar del Plata, Provincia de Buenos Aires, Argentina",
+          "description": "I work as a frontend developer at [Re]place, a tech consultancy where I’ve been involved in a variety of projects—both for clients and for the company’s own products.\nWhile I was initially brought in to work on Errepar (where I still collaborate), I’ve also contributed to projects like Endoclasify, websites for different clients, and internal tools such as [Re]-Bot.\nMy focus has always been on frontend development, but the role has required adaptability and versatility. Some of my responsibilities included:\n\nBuilding interfaces for both new and existing applications.\nSupporting teammates working on other client projects.\nJoining client meetings to understand needs and validate deliverables.\nPrototyping and presenting features for internal product pitches.\nRunning basic training sessions on tools and workflows.\n\nParticipating in informal interviews to evaluate new candidates and sharing technical feedback with team leads to support hiring decisions.\nThis position helped me grow in flexibility, communication, and cross-functional collaboration in a fast-paced environment.",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2023
+            },
+            "end": null
+          },
+          "contractType": "Full-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQG4Qlvh8I2ihg/company-logo_400_400/company-logo_400_400/0/1683567744725/replaceit_logo?e=1758758400&v=beta&t=gRZQUOUIXSjjFHyMemT9rmXqs-VOuGTVUAjj4gtjAvk",
+          "linkedInUrl": "https://www.linkedin.com/company/replaceit/",
+          "linkedInId": "69529122"
+        },
+        {
+          "title": "Responsable de ventas",
+          "companyName": "Distribuidora Jade Takem S.a.",
+          "companyLocation": null,
+          "description": "I worked as a salesperson and sector lead, responsible for ensuring smooth operations and proper organization in the sales floor.\n\nMy main responsibilities included:\nPlacing merchandise orders based on stock needs.\nManaging inventory and ensuring all products were properly displayed.\nCoordinating team members to ensure excellent customer service.\nOverseeing the sales area and handling daily operational issues.\nMaintaining an efficient, clean, and results-oriented work environment.\n\nThanks to my responsibility, strong communication skills, and proactive attitude, I was entrusted with full supervision of the sales floor and leadership of the team.",
+          "startEndDate": {
+            "start": {
+              "month": 7,
+              "year": 2021
+            },
+            "end": {
+              "month": 2,
+              "year": 2022
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": null,
+          "linkedInUrl": "https://www.linkedin.com/company/distribuidora-jade-takem-s.a./",
+          "linkedInId": "97565849"
+        },
+        {
+          "title": "Misionero Voluntario de La Iglesia de Jesucristo de Los Santos de los Ultimos Dias",
+          "companyName": "La iglesia de Jesucristo de los santos de los Ultimos Dias",
+          "companyLocation": "Salta, Argentina",
+          "description": "During my volunteer missionary service, I held various leadership and operational roles. I started by leading a small group of 8 missionaries, later overseeing 16, and eventually supporting over 189 missionaries as an assistant to the mission president.\n\nKey responsibilities included:\nCollecting and reporting weekly and monthly updates from zone leaders to mission leadership.\nOrganizing weekly trainings (for 16 missionaries) and monthly sessions for the full mission (189).\nSetting goals and building action plans to support team development and performance.\nMonitoring individual well-being, progress, and personal needs.\nManaging over 90 housing units, including rent, maintenance, utilities, and purchasing.\nWorking closely with administrative, financial, and records departments.\nAlways working in pairs, which strengthened my teamwork and interpersonal skills.\n\nThis role helped me build strong leadership, communication, and organizational skills in a high-responsibility, people-focused environment.",
+          "startEndDate": {
+            "start": {
+              "month": 3,
+              "year": 2019
+            },
+            "end": {
+              "month": 3,
+              "year": 2021
+            }
+          },
+          "contractType": "Full-time",
+          "companyLogo": null,
+          "linkedInUrl": null
+        }
+      ]
+    },
+    "schools": {
+      "educationsCount": 9,
+      "educationHistory": [
+        {
+          "degreeName": "Bachelor's degree",
+          "fieldOfStudy": "Ingeniería de software",
+          "description": null,
+          "linkedInUrl": "https://www.linkedin.com/school/byu-idaho/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQF_oufUviU5FA/company-logo_400_400/company-logo_400_400/0/1733247939985/byu_idaho_logo?e=1758758400&v=beta&t=YuTm0Gg0VKs52vnvyV0XYMKtl1Dmn0g16sd6H5b0nbs",
+          "schoolName": "Brigham Young University - Idaho",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2022
+            },
+            "end": {
+              "month": 12,
+              "year": 2026
+            }
+          }
+        },
+        {
+          "degreeName": "Carrera de Desarrollo de Aplicaciones",
+          "fieldOfStudy": "Programación informática",
+          "description": "Certificación de finalización de la carrera de Desarrollo de Aplicaciones.\nLa formación consistió en cuatro cursos integrales (de aproximadamente 8 semanas cada uno), diseñados para construir un perfil completo de desarrollador Frontend y Mobile.\n\nDesarrollo Web: Introducción a HTML, CSS y conceptos básicos de maquetación y diseño responsivo.\n\nJavaScript​: Programación avanzada, lógica, asincronía y consumo de APIs.\n\nReact: Creación de aplicaciones escalables utilizando componentes, gestión de estados y herramientas modernas del ecosistema React.\n\nReact Native: Desarrollo de aplicaciones móviles multiplataforma, integración de librerías externas y publicación en tiendas.\n\nCada curso aportó conocimientos prácticos y proyectos reales, consolidando habilidades para diseñar y desarrollar aplicaciones web y móviles de manera profesional.",
+          "linkedInUrl": "https://www.linkedin.com/school/coderhouse/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQH47RGjDD7AwQ/company-logo_400_400/company-logo_400_400/0/1640272006358/coderhouse_logo?e=1758758400&v=beta&t=eov7X4WALb-WsrShWyheD-XHBPpL5nNSyEwMPGYn-2A",
+          "schoolName": "Coderhouse",
+          "startEndDate": {
+            "start": {
+              "month": 8,
+              "year": 2023
+            },
+            "end": {
+              "month": 5,
+              "year": 2024
+            }
+          }
+        },
+        {
+          "degreeName": "Desarrollo React",
+          "fieldOfStudy": null,
+          "description": "La curiosidad de seguir aprendiendo me llevo a que me profundice en React, una de las librerías más populares de JavaScript para construir interfaces de usuario. Aprendí a crear componentes reutilizables y gestionar el estado de la aplicación de manera eficiente, lo que me permitió desarrollar interfaces dinámicas y altamente interactivas. Me familiaricé con el uso de JSX para escribir estructuras HTML dentro del código JavaScript, y comprendí la importancia del virtual DOM para mejorar el rendimiento de las aplicaciones. Además, adquirí conocimientos en React Hooks, permitiéndome manejar estados y efectos secundarios de una manera más intuitiva. Este curso me ha capacitado para construir aplicaciones web modernas y escalables, enfocándome en la creación de experiencias de usuario excepcionales.",
+          "linkedInUrl": "https://www.linkedin.com/school/coderhouse/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQH47RGjDD7AwQ/company-logo_400_400/company-logo_400_400/0/1640272006358/coderhouse_logo?e=1758758400&v=beta&t=eov7X4WALb-WsrShWyheD-XHBPpL5nNSyEwMPGYn-2A",
+          "schoolName": "Coderhouse",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2024
+            },
+            "end": {
+              "month": 3,
+              "year": 2024
+            }
+          }
+        },
+        {
+          "degreeName": "Desarrollo Javascript",
+          "fieldOfStudy": null,
+          "description": "JavaScript, el lenguaje de programación que añade interactividad y dinamismo a las páginas web. Aprendí a manipular el DOM (Document Object Model) para actualizar y modificar el contenido de la página en tiempo real, proporcionando una experiencia de usuario más fluida y atractiva.\nMe familiaricé con el manejo de eventos, permitiendo que las páginas respondan a las acciones del usuario, como clics y movimientos del ratón. Además, dominé la creación de scripts que realizan solicitudes asincrónicas y también, adquirí habilidades en el uso de funciones, bucles y estructuras de control de flujo, facilitando la creación de código más eficiente y reutilizable. Con estas herramientas, puedo desarrollar funcionalidades avanzadas y aplicaciones web interactivas que mejoran la experiencia del usuario.\nEstos conocimientos en JavaScript me han capacitado para crear sitios web más dinámicos e interactivos, enriqueciendo la interacción del usuario con el contenido de la página.",
+          "linkedInUrl": "https://www.linkedin.com/school/coderhouse/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQH47RGjDD7AwQ/company-logo_400_400/company-logo_400_400/0/1640272006358/coderhouse_logo?e=1758758400&v=beta&t=eov7X4WALb-WsrShWyheD-XHBPpL5nNSyEwMPGYn-2A",
+          "schoolName": "Coderhouse",
+          "startEndDate": {
+            "start": {
+              "month": 10,
+              "year": 2023
+            },
+            "end": {
+              "month": 1,
+              "year": 2024
+            }
+          }
+        },
+        {
+          "degreeName": "Desarrollo web",
+          "fieldOfStudy": null,
+          "description": "En el curso de desarrollo web, adquirí una sólida base de HTML y CSS, los pilares fundamentales para la creación de sitios web. Aprendí a estructurar el contenido de manera semántica con HTML, utilizando etiquetas adecuadas. También, me familiaricé con la importancia de un código limpio y organizado, facilitando tanto su lectura como su mantenimiento.\n\nEn cuanto a CSS, desarrollé habilidades para diseñar y personalizar la apariencia de las páginas web. Aprendí a aplicar estilos que mejoran la estética y la usabilidad, incluyendo colores, tipografías, espaciado y diseño de página. Además, me capacité en técnicas de diseño responsivo, asegurando que los sitios web se vean y funcionen bien en cualquier dispositivo, desde computadoras de escritorio hasta teléfonos móviles.",
+          "linkedInUrl": "https://www.linkedin.com/school/coderhouse/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQH47RGjDD7AwQ/company-logo_400_400/company-logo_400_400/0/1640272006358/coderhouse_logo?e=1758758400&v=beta&t=eov7X4WALb-WsrShWyheD-XHBPpL5nNSyEwMPGYn-2A",
+          "schoolName": "Coderhouse",
+          "startEndDate": {
+            "start": {
+              "month": 8,
+              "year": 2023
+            },
+            "end": {
+              "month": 10,
+              "year": 2023
+            }
+          }
+        },
+        {
+          "degreeName": "certificacion",
+          "fieldOfStudy": "Full Stack Developer",
+          "description": "Frontend y Backend, enfocado en Javascript, Html,Css y Python. \nmanejo de frameworks.",
+          "linkedInUrl": "https://www.linkedin.com/school/instituto-tecnol%C3%B3gico-de-buenos-aires/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQERO44d80vFIg/company-logo_400_400/company-logo_400_400/0/1631330219223?e=1758758400&v=beta&t=2T2RIxAD6tSGI84YU1q9CzcOUZQ7i2zo5evBjhqZWpc",
+          "schoolName": "Instituto Tecnológico de Buenos Aires",
+          "startEndDate": {
+            "start": {
+              "month": 5,
+              "year": 2022
+            },
+            "end": {
+              "month": 8,
+              "year": 2022
+            }
+          }
+        },
+        {
+          "degreeName": null,
+          "fieldOfStudy": null,
+          "description": null,
+          "linkedInUrl": "https://www.linkedin.com/school/byupathway/",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQHEcSYkNN5nMw/company-logo_400_400/company-logo_400_400/0/1683750782710/byupathway_logo?e=1758758400&v=beta&t=qCirFWbD8QzewbiHTQqWoBzgwgJzV016RDbQtxuqCGE",
+          "schoolName": "BYU-Pathway Worldwide",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2021
+            },
+            "end": {
+              "month": 12,
+              "year": 2021
+            }
+          }
+        },
+        {
+          "degreeName": "bachiller",
+          "fieldOfStudy": "Economía",
+          "description": null,
+          "linkedInUrl": null,
+          "schoolLogo": null,
+          "schoolName": "Instituto Domingo F. Sarmiento",
+          "startEndDate": {
+            "start": {
+              "month": 1,
+              "year": 2011
+            },
+            "end": {
+              "month": 12,
+              "year": 2017
+            }
+          }
+        },
+        {
+          "degreeName": "Analista en sistemas",
+          "fieldOfStudy": "Análisis de sistemas informáticos/Analista",
+          "description": "Actualmente estudiando Analista en Sistemas, con el objetivo de diseñar y desarrollar soluciones tecnológicas que faciliten la vida de las personas. Me apasiona crear herramientas que aporten valor real y disfruto ayudar a otros mediante la tecnología. Encuentro felicidad en cada proyecto que contribuye a hacer los procesos más simples, eficientes y accesibles.\nCreo firmemente que la tecología tiene el poder de transformar el día a día de las personas y las organizaciones, mejorando la forma en que trabajamos, nos comunicamos y resolvemos problemas. Mi motivación principal es entender las necesidades reales de los usuarios y convertirlas en soluciones prácticas, intuitivas y de impacto positivo.\nAdemás, valoro mucho el trabajo en equipo y la posibilidad de seguir aprendiendo constantemente. Cada desafío representa una oportunidad para crecer y aportar nuevas ideas que hagan la diferencia.",
+          "linkedInUrl": null,
+          "schoolLogo": null,
+          "schoolName": "isft151",
+          "startEndDate": {
+            "start": {
+              "month": 3,
+              "year": 2025
+            },
+            "end": null
+          }
+        }
+      ]
+    },
+    "skills": [
+      "Scrum",
+      "Planificación estratégica",
+      "Establecimiento de objetivos",
+      "Gestión de personas",
+      "Inteligencia emocional",
+      "Apoyo a compañeros",
+      "Colaboracion Remota",
+      "Versatilidad",
+      "Diseño web adaptable",
+      "Depuración de programas",
+      "Prueba de concepto",
+      "Desarrollo de aplicaciones web",
+      "Resolución de conflictos",
+      "Next.js",
+      "Desarrollo front end",
+      "Habilidades sociales",
+      "HTML5",
+      "Gestión de existencias",
+      "Organización de equipos",
+      "Comunicacion efectiva"
+    ],
+    "languages": [],
+    "languagesWithProficiency": [],
+    "recommendations": {
+      "recommendationsCount": 0
+    },
+    "certifications": {
+      "certificationsCount": 7,
+      "certificationHistory": [
+        {
+          "name": "Fundamentos para la gestión ágil de proyectos",
+          "organizationName": "Santander Open Academy",
+          "organizationUrl": null,
+          "issuedDate": "2025-08"
+        },
+        {
+          "name": "React-Native",
+          "organizationName": "Coderhouse",
+          "organizationUrl": null,
+          "issuedDate": "2024-05"
+        },
+        {
+          "name": "React",
+          "organizationName": "Coderhouse",
+          "organizationUrl": null,
+          "issuedDate": "2024-03"
+        },
+        {
+          "name": "javascript",
+          "organizationName": "Coderhouse",
+          "organizationUrl": null,
+          "issuedDate": "2024-01"
+        },
+        {
+          "name": "Desarrollo web",
+          "organizationName": "Coderhouse",
+          "organizationUrl": null,
+          "issuedDate": "2023-10"
+        },
+        {
+          "name": "Certificación Avanzada en Full Stack Developer",
+          "organizationName": "ITBA Escuela de Innovación",
+          "organizationUrl": null,
+          "issuedDate": "2022-08"
+        },
+        {
+          "name": "Fundamentos del desarrollo web: Full Stack o Front-end",
+          "organizationName": "LinkedIn",
+          "organizationUrl": null,
+          "issuedDate": "2022-05"
+        }
+      ]
+    },
+    "testScores": {
+      "testScoresCount": 0
+    },
+    "volunteeringExperiences": {
+      "volunteeringExperiencesCount": 0
+    }
+  },
+  "company": {
+    "linkedInId": "633807",
+    "name": "Errepar",
+    "universalName": "errepar",
+    "linkedInUrl": "https://www.linkedin.com/company/633807",
+    "employeeCount": 341,
+    "followerCount": 52388,
+    "employeeCountRange": {
+      "start": 51,
+      "end": 200
+    },
+    "websiteUrl": "http://www.errepar.com",
+    "tagline": "Excelencia y respaldo en soluciones profesionales",
+    "description": "Ofrecemos soluciones innovadoras para profesionales de ciencias económicas, jurídicas y empresariales integrando información, conocimiento, actualidad y tecnología a través de un amplio portfolio de productos y servicios pensados para los profesionales.",
+    "industry": "Information Services",
+    "phone": "1143707000",
+    "specialities": [
+      "Impuestos",
+      "Laboral y Previsional",
+      "Doctrina",
+      "Práctica",
+      "Jurisprudencia",
+      "Legislación",
+      "tenologia",
+      "contenido digital",
+      "management",
+      "Recursos Humanos",
+      "Soluciones técnicas",
+      "sueldos",
+      "informacion",
+      "IA",
+      "capacitacion",
+      "desarrollo",
+      "contable",
+      "legal",
+      "editorial",
+      "cultura digital",
+      "transformacion cultural ",
+      "servicios profesionales ",
+      "actualidad",
+      "consultoria "
+    ],
+    "headquarter": {
+      "city": "Ciudad de Buenos Aires",
+      "country": "AR",
+      "postalCode": null,
+      "geographicArea": null,
+      "street1": null,
+      "street2": null
+    },
+    "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHMVUIPCmZRQA/company-logo_400_400/company-logo_400_400/0/1664766305259/errepar_logo?e=1758758400&v=beta&t=HyvlaiQ9AU1pfFAqrzT_hO2M7Y1IPiy0Q1aLsowNc_c",
+    "foundedOn": {
+      "year": 1980
+    },
+    "fundingData": null,
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/D4D1BAQED8g-0Z8318Q/company-background_10000/company-background_10000/0/1664765874686/errepar_cover?e=1756188000&v=beta&t=rZvCc-rOqn1CQRReT_z2i847Bl3nlvB9LWguiQwa8No"
+  }
+}
